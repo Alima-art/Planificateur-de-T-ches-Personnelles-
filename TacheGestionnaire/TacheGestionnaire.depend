@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1732669630 source:c:\users\user\desktop\projetoriginalec++\tachegestionnaire\src\tache.cpp
+	"Tache.h"
+	<iostream>
+
+1732655944 c:\users\user\desktop\projetoriginalec++\tachegestionnaire\include\tache.h
+	<string>
+
+1732718653 source:c:\users\user\desktop\projetoriginalec++\tachegestionnaire\main.cpp
+	<iostream>
+	<vector>
+	"Tache.h"
+
